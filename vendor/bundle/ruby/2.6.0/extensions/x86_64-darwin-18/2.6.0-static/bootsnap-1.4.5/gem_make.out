@@ -1,0 +1,15 @@
+current directory: /Users/toomeeto/Desktop/nomap/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+/Users/toomeeto/.rbenv/versions/2.6.4/bin/ruby -I /Users/toomeeto/.rbenv/versions/2.6.4/lib/ruby/site_ruby/2.6.0 -r ./siteconf20191225-60011-1m282dm.rb extconf.rb
+creating Makefile
+
+current directory: /Users/toomeeto/Desktop/nomap/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/toomeeto/Desktop/nomap/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/toomeeto/Desktop/nomap/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20191225-60011-r31vn0/bootsnap
